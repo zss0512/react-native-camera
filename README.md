@@ -3,7 +3,7 @@ A cordova camera for react-native, supprt for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-camera --save
+npm install @zss0512/react-native-camera --save
 ```
 ### Installation (iOS)
 * Drag RCTCamera.xcodeproj to your project on Xcode.
